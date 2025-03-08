@@ -12,7 +12,7 @@
 
 ---
 
-<h1 align="center">Assalamu-alaikum & Welcome! 👋</h1>
+<h1 align="center">Assalamu-alaikum & Welcome! </h1>
 
 ---
 
@@ -30,6 +30,7 @@
 🎨 **Creative Side:**  
 - I have a strong passion for painting and run an **online art business**.  
   🎨 **Check out my work here:** [My Art Platform](https://www.facebook.com/profile.php?id=61554513748546)  
+- I also love **photography**! Check out my work here: [My Photography Drive](https://drive.google.com/drive/folders/11902IgYGYaZ3z0ckPy2_Aj7hQ_RX9pJI?usp=drive_link)  
 
 ---
 
@@ -59,8 +60,9 @@
 
 - 📧 Email: [rabeyaeva185@gmail.com](mailto:rabeyaeva185@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rabeya-eva-457678210)  
-- 🐦 [Twitter](https://x.com/rabeyaeva3?t=MBt0PQAYw74DlOxIX0YOfQ&s=09)  
+- 🕊 [Twitter](https://x.com/rabeyaeva3?t=MBt0PQAYw74DlOxIX0YOfQ&s=09)  
+- 📸 [Instagram](https://www.instagram.com/error_now__/)
 
 ---
 
-⭐ **If you find my work valuable, feel free to star this repository!** 🚀
+🌟 **If you find my work valuable, feel free to star this repository!** 🚀
